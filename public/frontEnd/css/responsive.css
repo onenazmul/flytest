@@ -1,0 +1,163 @@
+/*mobile portate*/
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+    
+    .container {
+    width: 380px !important;
+}
+.delivery-charge-area .delivery-charge {
+	width: 100%;
+	border-left: 0;
+	border: 1px solid #ddd;
+}
+.service-zone-image img {
+     padding: 0px; 
+}
+.slogan-widget h2 {
+    font-size: 25px;
+}
+.price-section .nav li a {
+    margin: 0 0px;
+}
+.service-zone-text {
+     padding-top: 0px; 
+}
+.service-zone {
+    padding-bottom: 20px;
+}
+.feature-section {
+    padding: 0px;
+}
+
+.feedback-text {
+    width: 100%;
+}
+    .feedback-title h3 {
+     padding-top: 10px;
+     font-size: 25px;
+}
+    .login-track-form {
+    position: relative !important;
+    width:100%;
+
+    }
+    .banner-image {
+    height: 195px;
+}
+.mobile-header {
+    display: block;
+}
+.mean-bar {
+    background: #62f013 !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    z-index: 99 !important;
+}
+.service-item {
+    margin-bottom: 30px;
+}
+.calculate-image {
+    margin-top: 20px;
+}
+#header {
+    height: 0;
+}
+
+.mobile-header ul li {
+    margin: 6px 6px;
+}
+.mobile-header ul li a {
+    cursor: pointer;
+}
+.mobile-header ul {
+    text-align: right;
+}
+.mobile-header {
+    padding: 10px 0;
+    background: #ddd;
+}
+.meanmenu-reveal {
+    position: absolute !important;
+    top: -50px !important;
+    right: 8px !important;
+}
+.mean-nav {
+    margin-top: 0px !important;
+}
+.meanmenu-reveal {
+    position: absolute !important;
+    top: -50px !important;
+}
+    .header-top,
+    .header-top-right {
+        text-align: center;
+        margin-top: 20px
+    }
+
+    .me-image img {
+        right: 0
+    
+        .home-about-content {
+        margin-top: 80px;
+    }
+    .work-isotop-btn button {
+        margin-top: 20px
+    }
+    .res-top {
+        margin-top: 40px
+    }
+    .button-group.work-isotop-btn {
+        text-align: center !important;
+    }
+    .contact-form {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:420px) {
+    .me-text,
+    .typer-text h3 {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width:421px) and (max-width:767px) {}
+
+/*tablet*/
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    .work-isotop-btn button {
+        margin-top: 10px
+    }
+    .res-top {
+        margin-top: 40px
+    }
+    .me-image img {
+        right: 0
+    }
+    .me-image {
+        margin-top: 50px;
+    }
+
+    .home-about-content ul {
+        margin: 0
+    }
+    .home-about-content ul li {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+    .container {
+        width: 360px;
+    }
+}
+
+@media only screen and (min-width:992px) and(max-width:1199px) {}
+
+/*large*/
+
+@media only screen and(min-width:1200px) and(max-width:1920px) {}
